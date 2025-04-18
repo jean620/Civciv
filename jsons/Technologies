@@ -1,0 +1,13 @@
+{
+  "NeoConfucianism": {
+    "name": "NeoConfucianism",
+    "column": 5,
+    "row": 2,
+    "cost": 160,
+    "requiredTechs": ["Writing"],
+    "unlocksBuildings": ["NeoAcademy"],
+    "unlocksPolicyBranches": ["Tradition"],
+    "era": "Classical",
+    "description": "A rediscovered ideology balancing rationalism and tradition. Unlocks the NeoAcademy and initiates a new era of cultured order."
+  }
+}
