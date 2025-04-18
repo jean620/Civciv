@@ -1,0 +1,22 @@
+{
+  "NeoKorea": {
+    "name": "NeoKorea",
+    "uniqueUnits": ["HwarangElite", "QAnonBeliever"],
+    "uniqueBuildings": ["CyberPalace", "NeoAcademy"],
+    "uniqueTechnologies": ["NeoConfucianism"],
+    "startingTechs": ["Pottery", "Mining"],
+    "defaultCityNameList": ["New Gyeongju", "Han City", "Cyber Busan", "Neo Seorabeol", "Techno Daejeon"],
+    "civilizationAbilities": [
+      { "name": "Civic Prosperity", "description": "+1 Gold, +1 Science, +1 Culture per population" },
+      { "name": "Desert Adaptation", "description": "Desert tiles yield +2 Food and +1 Production" },
+      { "name": "Astronomy Bonus", "description": "After researching Astronomy, Desert tiles provide +1 Culture" }
+    ],
+    "leaderName": "Jean",
+    "leaderAbility": {
+      "name": "Desert Warriors",
+      "description": "Unique units gain +60% strength and heal 20 HP after defeating enemies when fighting on Desert or Friendly territory"
+    },
+    "color": "LightCyan",
+    "backColor": "DarkBlue"
+  }
+}
