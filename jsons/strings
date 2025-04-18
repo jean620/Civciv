@@ -1,0 +1,34 @@
+{
+  "en": {
+    "NeoKorea": "Neo Korea",
+    "Jean": "Jean",
+    "CyberPalace": "Cyber Palace",
+    "CyberPalaceDesc": "A futuristic monument that produces +3 Culture, +2 Food, and +3 Gold.",
+    "HwarangElite": "Hwarang Elite",
+    "HwarangEliteDesc": "Crossbowman replacement. Grants +20% combat strength to adjacent allies and heals after desert kills.",
+    "QAnonBeliever": "QAnon Believer",
+    "QAnonBelieverDesc": "Cannot attack. Reduces adjacent enemy mechanized units’ strength to 0, but reduces science output by 5%.",
+    "NeoAcademy": "NeoAcademy",
+    "NeoAcademyDesc": "National College replacement that provides +3 Science, +2 Culture, and +1 Production.",
+    "NeoConfucianism": "Neo-Confucianism",
+    "NeoConfucianismDesc": "A rediscovered ideology balancing rationalism and tradition. Unlocks new civic structures.",
+    "NeoConfucianismFlavor": "\"From the ruins of reason, we rebuild harmony.\"",
+    "NeoKoreaSplash": "Guided by Jean’s vision, NeoKorea rises where sand meets silicon."
+  },
+  "ko": {
+    "NeoKorea": "네오코리아",
+    "Jean": "장",
+    "CyberPalace": "사이버 플래리스",
+    "CyberPalaceDesc": "문화 +3, 식량 +2, 골드 +3을 생산하는 미래형 기념비입니다.",
+    "HwarangElite": "엘리트 화랑",
+    "HwarangEliteDesc": "석궁병 대체 유닛. 주변 아군의 전투력을 20% 증가시키며, 사막에서 적을 처치하면 회복합니다.",
+    "QAnonBeliever": "큐아논 신봉자",
+    "QAnonBelieverDesc": "공격 불가. 주변 적 기계 유닛의 공격력을 0으로 만들지만, 과학 생산이 5% 감소합니다.",
+    "NeoAcademy": "성균관",
+    "NeoAcademyDesc": "과학 +3, 문화 +2, 생산 +1을 제공하는 국립학교 대체 건물입니다.",
+    "NeoConfucianism": "신유학",
+    "NeoConfucianismDesc": "이성과 전통을 조화시킨 사상. 새로운 문화 정책 구조를 해금합니다.",
+    "NeoConfucianismFlavor": "\"이성의 폐허 위에서, 우리는 조화를 다시 세운다.\"",
+    "NeoKoreaSplash": "장(Jean)의 비전 아래, 모래와 실리콘이 만나는 곳에서 네오코리아가 솟아오른다."
+  }
+}
