@@ -1,5 +1,13 @@
-# Unciv-mod-example
+# NeoKorea - Custom Unciv Civilization Mod
 
-An example mod for Unciv, that adds one new Civilization.
+This is a custom civilization mod for Unciv, designed by Jean.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+## Features
+- Unique civilization: NeoKorea
+- Leader: Jean
+- Desert-based bonuses, futuristic ideology (NeoConfucianism)
+- Two unique units: HwarangElite, QAnonBeliever
+- Two unique buildings: CyberPalace, NeoAcademy
+- Custom technologies, Civilopedia entry, full icon set, and multilingual support
+
+Created with vision, logic, and a bit of mischief.
