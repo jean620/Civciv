@@ -1,17 +1,38 @@
-[
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
-]
+{
+  "HwarangElite": {
+    "name": "HwarangElite",
+    "baseProduction": 120,
+    "rangedStrength": 18,
+    "meleeStrength": 10,
+    "movement": 2,
+    "rangedCombat": true,
+    "range": 2,
+    "upgradesTo": "Musketman",
+    "requiredTech": "Machinery",
+    "replaces": "Crossbowman",
+    "unique": true,
+    "abilities": [
+      "Gains +60% strength and heals 20 HP after defeating a unit on Desert or Friendly territory",
+      "Adjacent friendly units gain +20% combat strength"
+    ]
+  },
+  "QAnonBeliever": {
+    "name": "QAnonBeliever",
+    "baseProduction": 200,
+    "rangedStrength": 0,
+    "meleeStrength": 0,
+    "movement": 2,
+    "rangedCombat": false,
+    "canAttack": false,
+    "requiredTech": "Robotics",
+    "unique": true,
+    "abilities": [
+      "Cannot attack",
+      "All adjacent enemy Mechanized units have their combat strength reduced to 0",
+      "Each QAnonBeliever reduces civilization Science output by 5%",
+      "Each QAnonBeliever increases Faith output by 5%",
+      "Each QAnonBeliever causes -30 diplomatic favor with Rationalist civilizations",
+      "Each QAnonBeliever grants +30 diplomatic favor with civilizations of the same religion"
+    ]
+  }
+}
